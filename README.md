@@ -19,34 +19,19 @@ I am a passionate and results-driven Full-Stack Engineer and Software Engineerin
 ### 🛠️ Tech Stack & Toolkit
 
 #### 💻 Web & Frontend Development
-![React](https://shields.io)
-![Next.js](https://shields.io)
+<img src="https://shields.io" /> <img src="https://shields.io" />
 
 #### 📱 Mobile Ecosystem
-![React Native](https://shields.io)
+<img src="https://shields.io" />
 
 #### 💻 Programming Languages
-![JavaScript](https://shields.io)
-![TypeScript](https://shields.io)
-![Python](https://shields.io)
-![PHP](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 #### 🗄️ Database & Backend Services
-![Node.js](https://shields.io)
-![Express.js](https://shields.io)
-![Django](https://shields.io)
-![Laravel](https://shields.io)
-![PostgreSQL](https://shields.io)
-![MySQL](https://shields.io)
-![MongoDB](https://shields.io)
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 #### 🔧 Tools & Version Control
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![Docker](https://shields.io)
-![AWS](https://shields.io)
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 ***
 
@@ -60,5 +45,5 @@ I am a passionate and results-driven Full-Stack Engineer and Software Engineerin
 
 ### 🤝 Connect with Me
 
-- ![LinkedIn](https://shields.io) [://linkedin.com](https://www.://linkedin.com)
-- ![Email](https://shields.io) maazanwersiyal@gmail.com
+- <img src="https://shields.io" /> **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+- <img src="https://shields.io" /> **Email:** maazanwersiyal@gmail.com
