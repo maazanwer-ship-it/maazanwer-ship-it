@@ -65,13 +65,21 @@ I am a passionate and results-driven **Full-Stack Engineer** and Software Engine
 
 ---
 
-### 📊 GitHub Stats & Activity
-
+<!-- GitHub Stats Section -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial&hide_border=true&count_private=true" alt="Maaz's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maazanwer&show_icons=true&theme=radial&hide_border=true&count_private=true" alt="Maaz's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazanwer&layout=compact&theme=radial&hide_border=true" alt="Most Used Languages" />
 </div>
+
+<!-- Connect with Me Section -->
+<div align="left">
+  <a href="https://linkedin.com/in/maaz-anwer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  ...
+</div>
+
 
 ---
 
